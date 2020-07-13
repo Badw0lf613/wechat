@@ -13,7 +13,7 @@
     </view>
     <view class="upload-image" bindtap="chooseImage">
         <image src="/images/camera.png" mode="aspectFit"></image>
-        <text>上传图片</text>
+        <text>上传图片（改一下）</text>
     </view>
 </scroll-view>
 
